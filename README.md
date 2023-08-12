@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently on a new journey to build something entirely new in the GenAI world
 
 <!--
 **vifilio/vifilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
